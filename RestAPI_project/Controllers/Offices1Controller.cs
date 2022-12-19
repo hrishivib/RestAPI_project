@@ -12,6 +12,7 @@ using RestAPI_project.Models;
 
 namespace RestAPIDemo.Controllers
 {
+    // USED for Paging
     public class Offices1Controller : Controller
     {
         private RestAPIDemoContext db = new RestAPIDemoContext();
