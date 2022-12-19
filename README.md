@@ -4,7 +4,6 @@ This project contains the implementation of REST API application using ASP.NET W
 It also includes
 - Paging
 - Caching
-- Versioning
 
 Tested on Postman:
 
